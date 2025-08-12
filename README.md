@@ -1,7 +1,6 @@
 # Hi there 👋
 
-I’m **Vansh Yadav**, a passionate B.Tech (CSE Core) student specializing in **Generative AI**.  
-I enjoy exploring the world of programming — especially **Python** — and love participating in coding hackathons.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&lines=I%E2%80%99m+Vansh+Yadav;B.Tech+(CSE+Core)+Student;Specializing+in+Generative+AI;Python+Programming+Enthusiast;Hackathon+Participant+%26+AI+Learner)](https://git.io/typing-svg)
 
 ---
 
@@ -22,8 +21,6 @@ I enjoy exploring the world of programming — especially **Python** — and lov
 ## 📫 How to reach me
 - 📧 Email: vanshyadavy286[at]gmail[dot]com  
 - 📍 Location: Punjab, India
-
-*(Personal mobile number omitted here for privacy — recommend sharing via private channels)*
 
 ---
 
