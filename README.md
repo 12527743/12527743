@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**12527743/12527743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Vansh Yadav**, a passionate B.Tech (CSE Core) student specializing in **Generative AI**.  
+I enjoy exploring the world of programming — especially **Python** — and love participating in coding hackathons.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently
+- 🎓 Pursuing my **B.Tech in Computer Science (Core in GenAI)**
+- 💻 Actively practicing coding and building projects
+- 🤖 Exploring the fascinating space of Generative AI
+
+---
+
+## 🌱 Interests & Hobbies
+- Competitive programming & hackathons
+- Experimenting with Python projects
+- Learning and implementing AI/ML concepts
+
+---
+
+## 📫 How to reach me
+- 📧 Email: vanshyadavy286[at]gmail[dot]com  
+- 📍 Location: Punjab, India
+
+*(Personal mobile number omitted here for privacy — recommend sharing via private channels)*
+
+---
+
+## ⚡ Fun fact
+I believe that every bug is just an *unintended feature waiting to be discovered!* 😄
