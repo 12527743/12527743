@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&lines=I%E2%80%99m+Vansh+Yadav;B.Tech+(CSE)+Student;Specializing+in+Generative+AI;Python+Programming+C_Language;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&lines=I%E2%80%99m+Vansh+Yadav;B.Tech+(CSE)+Student;Specializing+in+Generative+AI;Python+Programming+C+Language;)](https://git.io/typing-svg)
 
 ---
 
