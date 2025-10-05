@@ -1,20 +1,19 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&lines=I%E2%80%99m+Vansh+Yadav;B.Tech+(CSE+Core)+Student;Specializing+in+Generative+AI;Python+Programming+Enthusiast;Hackathon+Participant+%26+AI+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&lines=I%E2%80%99m+Vansh+Yadav;B.Tech+(CSE)+Student;Specializing+in+Generative+AI;Python+Programming+C_Language;)](https://git.io/typing-svg)
 
 ---
 
 ## 🔭 Currently
-- 🎓 Pursuing my **B.Tech in Computer Science (Core in GenAI)**
+- 🎓 Pursuing my **B.Tech in Computer Science and Engineering with Specializing in GenAI**
 - 💻 Actively practicing coding and building projects
 - 🤖 Exploring the fascinating space of Generative AI
 
 ---
 
 ## 🌱 Interests & Hobbies
-- Competitive programming & hackathons
-- Experimenting with Python projects
-- Learning and implementing AI/ML concepts
+- Competitive programming
+- Experimenting with Python, C Language projects
 
 ---
 
